@@ -10,6 +10,5 @@
 <br>
 
 <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/nomi-san/count.svg" />
+  <img src="https://vc.nomi.dev/badge" />
 </p>
