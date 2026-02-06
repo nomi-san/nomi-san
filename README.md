@@ -10,5 +10,5 @@
 <br>
 
 <p align="center"> 
-  <img src="https://vc.nomi.dev/badge.svg" />
+  <img src="https://vc-5fc0-2473.deno.dev/badge.svg" />
 </p>
